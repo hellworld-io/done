@@ -1,4 +1,4 @@
-# done
+# Done
 
 Make your schedule and push google calendar.
 
